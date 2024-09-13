@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sumant
 - 👀 I’m interested in coding and manny more activities...
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to intern..
+- 🌱 I’m currently learning java
 - 📫 How to reach me via instagram or any social network..
 
 
